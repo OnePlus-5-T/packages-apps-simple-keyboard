@@ -1,0 +1,10 @@
+License: Apache-2.0 license
+
+Sources: https://github.com/rkkr/simple-keyboard
+
+Apks: https://github.com/rkkr/simple-keyboard/releases
+
+This repository includes the apk signed with platform key and with the following change:
+https://github.com/rkkr/simple-keyboard/pull/451
+
+The apk will be changed to be the one provided on github, untouched, as soon as the pull request will be merged.
